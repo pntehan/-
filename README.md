@@ -6,4 +6,11 @@
  价格列表
  
 |价格|每月流量|解锁流媒体|最高速度|
-|-|-|-|-|
+|:-:|:-:|:-:|:-:|
+|98/年|15G|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|:-:|:-:|:-:|:-:|
+|98/年|15G|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|:-:|:-:|:-:|:-:|
+|98/年|15G|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+
+
