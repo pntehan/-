@@ -31,15 +31,15 @@
 |价格|数据流量|解锁流媒体|最高速度|
 |:-:|:-:|:-:|:-:|
 |128/年|20G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|39/月|150G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|218/半年|150G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|346/年|150G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|58/月|400G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|318/半年|400/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|546/年|400/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|113/月|1000G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|618/半年|1000G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
-|946/年|1000G/月|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|39/月|150G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|218/半年|150G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|346/年|150G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|58/月|400G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|318/半年|400/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|546/年|400/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|113/月|1000G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|618/半年|1000G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
+|946/年|1000G/月（有0.2倍率节点）|Netflix/HBO/TVB/HULU/ChatGPT访问解锁|1000Mbps|
 
 # 速鹰666机场
 [官网地址，点击直达](https://suying00.com/auth/register?code=eTVf)
